@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/moralesvictorr/testSprint/issues"
   },
-  "homepage": "https://moralesvictorr.github.io/testSprint",
+  "homepage": "https://moralesvictorr.github.io/testSprint/",
   "devDependencies": {
     "@babel/core": "^7.20.5",
     "@babel/preset-env": "^7.20.2",
